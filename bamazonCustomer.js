@@ -1,5 +1,5 @@
 // install the following
-// ('npm init')(npm install mysql)~ Hit enter 1000 times
+// ('npm init')(npm install mysql)~ Hit enter 1000 times(npm install inquirer)
 var inquirer = require('inquirer');
 var mysql = require('mysql');
 

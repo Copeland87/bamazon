@@ -1,0 +1,23 @@
+{
+  "name": "bamazon1",
+  "version": "1.0.0",
+  "description": "Fish Store",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Copeland87/bamazon.git"
+  },
+  "author": "ZC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Copeland87/bamazon/issues"
+  },
+  "homepage": "https://github.com/Copeland87/bamazon#readme"
+}
